@@ -1,0 +1,17 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+artifacts/
+training_history.png
+*.keras
+*.h5
+*.pkl
+
+datasets/
+artifacts_smoke/
+artifacts_multi_smoke/
+artifacts_test_run/
+reports/
+reports_final/
